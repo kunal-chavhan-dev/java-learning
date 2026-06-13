@@ -1,20 +1,14 @@
 import java.util.Scanner;
-public class Main {
+public class Main{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int button = sc.nextInt();
-        // CONDITION START
-        if(button == 1) {
-            System.out.println("Stop! The light is RED");
+        int year = sc.nextInt();
+        //LEAP YEAR CHECKER//
+        if( year % 4 == 0) {
+            System.out.println("It is a leap Year!");
         }
-        else if(button == 2 ) {
-            System.out.println("Wait! The light is YELLOW");
-        }
-        else if(button == 3 ) {
-            System.out.println("Go! The light is GREEN");
-        }
-        else{
-            System.out.println("Invalid Button");
+        else {
+            System.out.println("Not a leap Year!");
         }
     }
 }
