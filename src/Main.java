@@ -1,14 +1,45 @@
 import java.util.Scanner;
-public class Main{
+class Calculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int year = sc.nextInt();
-        //LEAP YEAR CHECKER//
-        if( year % 4 == 0) {
-            System.out.println("It is a leap Year!");
-        }
-        else {
-            System.out.println("Not a leap Year!");
+        System.out.println("Enter first Number:");
+        double num1 = sc.nextDouble();
+
+        System.out.println("Enter second Number:");
+        double num2 = sc.nextDouble();
+
+        System.out.println("Operators(+,-,*,/): ");
+        char operator = sc.next().charAt(0);
+
+        double result;
+
+        switch(operator) {
+            case '+':
+                result = num1 + num2;
+                System.out.println("Result:"+result);
+                break;
+            case '-':
+                result = num1 - num2;
+                System.out.println("Result:"+result);
+                break;
+            case '*':
+                result = num1 * num2;
+                System.out.println("Result:"+result);
+                break;
+            case '/':
+                if( num2 != 0 ) {
+                    result = num1 / num2;
+                    System.out.println("Result:" + result);
+                } else {
+                    System.out.println("Error! can not divide by Zero");
+                }
+                break;
+            default:
+                System.out.println("Invalid Operators");
+
+
+
+
         }
     }
 }
