@@ -1,4 +1,4 @@
-package com.myprojects.patterns;
+
 public class Cwk_07_RectanglePattern {
         public static void main(String[] args) {
             int m = 5;
