@@ -8,6 +8,7 @@ This repository contains my daily practice programs and logic-building exercises
 
 💡 Key Concepts Covered
 Arrays 📊: basic program of Array 
+Maxfinder program using Array
 
 Fundamentals 📚: Java syntax, classes, and structure.
 
