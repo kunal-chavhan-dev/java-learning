@@ -7,9 +7,7 @@ Welcome to my Java programming journey! This repository contains my initial prac
 This repository contains my daily practice programs and logic-building exercises.
 
 💡 Key Concepts Covered
-Arrays 📊: Managing data collections and traversing with loops.
-
-Patterns 🏗️: Logic building using nested loops.
+Arrays 📊: basic program of Array 
 
 Fundamentals 📚: Java syntax, classes, and structure.
 
