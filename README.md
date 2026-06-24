@@ -9,6 +9,9 @@ This repository contains my daily practice programs and logic-building exercises
 💡 Key Concepts Covered
 Arrays 📊: basic program of Array 
 Maxfinder program using Array
+| 17 | Cwk_17_ArraySum.java | Array Sum |
+| 18 | Cwk_18_EvenOdd.java | Even & Odd Count |
+| 19 | Cwk_19_RemoveDuplicates.java | Remove Duplicates |
 
 Fundamentals 📚: Java syntax, classes, and structure.
 
