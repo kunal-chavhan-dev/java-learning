@@ -12,6 +12,7 @@ Maxfinder program using Array
 | 17 | Cwk_17_ArraySum.java | Array Sum |
 | 18 | Cwk_18_EvenOdd.java | Even & Odd Count |
 | 19 | Cwk_19_RemoveDuplicates.java | Remove Duplicates |
+| 20 | Cwk_20_SecondLagest.java
 
 Fundamentals 📚: Java syntax, classes, and structure.
 
