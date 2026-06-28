@@ -7,12 +7,12 @@ Welcome to my Java programming journey! This repository contains my initial prac
 This repository contains my daily practice programs and logic-building exercises.
 
 💡 Key Concepts Covered
-Arrays 📊: basic program of Array 
-Maxfinder program using Array
-| 17 | Cwk_17_ArraySum.java | Array Sum |
-| 18 | Cwk_18_EvenOdd.java | Even & Odd Count |
-| 19 | Cwk_19_RemoveDuplicates.java | Remove Duplicates |
-| 20 | Cwk_20_SecondLagest.java
+Arrays 📊: basic program of Array
+Cwk_21_2DArrayInput.java
+
+Cwk_22_RowColSum.java
+
+Cwk_23_Transpose.java
 
 Fundamentals 📚: Java syntax, classes, and structure.
 
