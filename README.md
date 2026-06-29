@@ -8,11 +8,10 @@ This repository contains my daily practice programs and logic-building exercises
 
 💡 Key Concepts Covered
 Arrays 📊: basic program of Array
-Cwk_21_2DArrayInput.java
 
-Cwk_22_RowColSum.java
+Cwk_24_MatrixAddition.java
 
-Cwk_23_Transpose.java
+Cwk_25_MatrixMultiplication.java
 
 Fundamentals 📚: Java syntax, classes, and structure.
 
