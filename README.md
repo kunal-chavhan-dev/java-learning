@@ -9,9 +9,9 @@ This repository contains my daily practice programs and logic-building exercises
 💡 Key Concepts Covered
 Arrays 📊: basic program of Array
 
-Cwk_24_MatrixAddition.java
+Cwk_26_LinearSearch.java
 
-Cwk_25_MatrixMultiplication.java
+Cwk_27_LargestElement.java
 
 Fundamentals 📚: Java syntax, classes, and structure.
 
