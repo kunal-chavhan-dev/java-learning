@@ -8,10 +8,29 @@ This repository contains my daily practice programs and logic-building exercises
 
 💡 Key Concepts Covered
 Arrays 📊: basic program of Array
+---
 
-Cwk_26_LinearSearch.java
+## 📚 Topics Covered
 
-Cwk_27_LargestElement.java
+### 🔰 Basics
+- Variables, Data Types, Operators
+- Conditionals (if-else, switch)
+- Loops (for, while, do-while)
+- Pattern Printing (Pyramid, Diamond, Butterfly)
+- 
+
+### 📦 Arrays
+- 1D Arrays (Traversal, Search, Reversal)
+- 2D Arrays (Matrix Addition, Multiplication, Transpose)
+
+### 🔍 Searching & Sorting
+- Linear Search
+- Binary Search
+- Bubble Sort
+- Selection Sort
+
+
+---
 
 Fundamentals 📚: Java syntax, classes, and structure.
 
