@@ -3,38 +3,22 @@
 Welcome to my Java programming journey! This repository contains my initial practice projects, designed to strengthen my understanding of core Java concepts. 💻✨
 
 ## 📂 Projects Included:
-🚀 Java Learning Journey ☕
-This repository contains my daily practice programs and logic-building exercises.
+** *Cwk_33_StringExamples.java
 
 💡 Key Concepts Covered
-Arrays 📊: basic program of Array
+String 📊: basic program of sting
 ---
+# Cwk_33_StringExamples
 
-## 📚 Topics Covered
+Java program covering common String class methods:
+creation, concatenation, comparison (`==` vs `equals`), 
+substring, split, replace, trim, case conversion, 
+reverse (via StringBuilder), and `String.format()`.
 
-### 🔰 Basics
-- Variables, Data Types, Operators
-- Conditionals (if-else, switch)
-- Loops (for, while, do-while)
-- Pattern Printing (Pyramid, Diamond, Butterfly)
-- 
-
-### 📦 Arrays
-- 1D Arrays (Traversal, Search, Reversal)
-- 2D Arrays (Matrix Addition, Multiplication, Transpose)
-
-### 🔍 Searching & Sorting
-- Linear Search
-- Binary Search
-- Bubble Sort
-- Selection Sort
-
-
+## Run
+```bash
+javac Cwk_33_StringExamples.java
 ---
-
-Fundamentals 📚: Java syntax, classes, and structure.
-
-
 ## 🛠️ How to Run?
 1. Clone this repository to your local machine. 📥
 2. Open the project in **IntelliJ IDEA**. 🖥️
