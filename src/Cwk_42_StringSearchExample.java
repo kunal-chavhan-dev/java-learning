@@ -2,6 +2,7 @@ public class Cwk_42_StringSearchExample {
         public static void main(String[] args) {
             String sentence = "Java Programming Language";
 
+
             // 1. Substring nikalna
             System.out.println("Substring: " + sentence.substring(5, 16)); // Output: Programming
 
